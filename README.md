@@ -129,4 +129,4 @@ C:\Python27\Scripts/pip.exe install colorama
 C:\Python27\Scripts/pip.exe install parse
 C:\Python27\Scripts/pip.exe install system
 cd BoT
-C:\python27\python.exe Bpriv.py
+C:\python27\python.exe priv.py
