@@ -110,6 +110,8 @@ git clone https://github.com/user-rahim/Boot
 cd Boot
 chmod +x install.sh
 bash install.sh
+cd BoT
+python2 priv.py
 ```
 
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
@@ -126,4 +128,5 @@ C:\Python27\Scripts/pip.exe install Queue
 C:\Python27\Scripts/pip.exe install colorama
 C:\Python27\Scripts/pip.exe install parse
 C:\Python27\Scripts/pip.exe install system
-C:\python27\python.exe priv.py
+cd BoT
+C:\python27\python.exe Bpriv.py
