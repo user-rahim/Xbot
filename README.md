@@ -118,6 +118,12 @@ Download Python 2.7.1.4
 Download Boot
 Extract Boot into Desktop
 Extract BoT.zip
+install pip your windows
 Open CMD and type the following commands:
 cd Desktop/Boot/
+C:\Python27\Scripts/pip.exe install requests
+C:\Python27\Scripts/pip.exe install Queue
+C:\Python27\Scripts/pip.exe install colorama
+C:\Python27\Scripts/pip.exe install parse
+C:\Python27\Scripts/pip.exe install system
 C:\python27\python.exe priv.py
