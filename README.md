@@ -65,10 +65,10 @@ Tools ☣ Website Vulnerability Scanner & Auto Exploiter
 <b>[3] DruPal<br> 
 
 [+] Add Admin
-<br>[+] Drupalgeddon<br><br>
-<br>[+] Drupal BruteForce<br><br>
-<br>[+] Drupal Geddon2 Exploit - Upload shell<br><br>
-<br>[+] CVE-2019-6340 Drupal8 RCE Exploit<br><br>
+<br>[+] Drupalgeddon
+<br>[+] Drupal BruteForce
+<br>[+] Drupal Geddon2 Exploit - Upload shell
+<br>[+] CVE-2019-6340 Drupal8 RCE Exploit
 
 [4] PrestaShop<br>
 
@@ -99,3 +99,4 @@ Tools ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] tdpsthemeoptionpanel  
 [+] psmodthemeoptionpanel  
 [+] masseditproduct
+[+] BrutoForce
