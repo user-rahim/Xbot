@@ -99,4 +99,4 @@ Tools ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] tdpsthemeoptionpanel  
 [+] psmodthemeoptionpanel  
 [+] masseditproduct
-[+] BrutoForce
+[+] Brutoforce
