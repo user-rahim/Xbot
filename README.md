@@ -11,8 +11,8 @@ Tools ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Cherry Plugin  
 [+] Download Manager  
 [+] Formcraft 
-<br>[+] levoslideshow 
-<br>[+] Power Zoomer  
+[+] levoslideshow 
+[+] Power Zoomer  
 [+] Gravity Forms  
 [+] Revslider Upload Shell  
 [+] Revslider Dafece Ajax  
