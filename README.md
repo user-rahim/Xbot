@@ -107,7 +107,7 @@ Download [Termux/Linux](https://play.google.com/store/apps/details?id=com.termux
 
 ```bash
 git clone https://github.com/user-rahim/Boot
-cd Boot
+cd AutoExploit
 chmod +x install.sh
 bash install.sh
 cd BoT
@@ -122,7 +122,7 @@ Extract Boot into Desktop
 Extract BoT.zip
 install pip your windows
 Open CMD and type the following commands:
-cd Desktop/Boot/
+cd Desktop/AutoExploit/
 C:\Python27\Scripts/pip.exe install requests
 C:\Python27\Scripts/pip.exe install Queue
 C:\Python27\Scripts/pip.exe install colorama
