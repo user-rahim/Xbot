@@ -32,16 +32,16 @@ Tools ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Synoptic  
 [+] Wp Shop  
 [+] Content Injection 
-<br>[+] Cubed Theme  
-<br>[+] Rightnow Theme  
-<br>[+] Konzept  
-<br>[+] Omni Secure Files 
-<br>[+] Pitchprint  
-<br>[+] Satoshi  
-<br>[+] Pinboard  
-<br>[+] Barclaycart  
+[+] Cubed Theme  
+[+] Rightnow Theme  
+[+] Konzept  
+[+] Omni Secure Files 
+[+] Pitchprint  
+[+] Satoshi  
+[+] Pinboard  
+[+] Barclaycart  
 
-<b>[2] Joomla<br>
+<b>[2] Joomla :<br>
 
 [+] Com Jce  
 [+] Com Media  
@@ -70,7 +70,7 @@ Tools ☣ Website Vulnerability Scanner & Auto Exploiter
 <br>[+] Drupal Geddon2 Exploit - Upload shell
 <br>[+] CVE-2019-6340 Drupal8 RCE Exploit
 
-[4] PrestaShop<br>
+[4] PrestaShop:<br>
 
 [+] columnadverts  
 [+] soopamobile  
