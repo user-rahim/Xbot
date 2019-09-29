@@ -97,6 +97,5 @@ Tools ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] nvn_export_orders  
 [+] megamenu  
 [+] tdpsthemeoptionpanel  
-[+] psmodthemeoptionpanel  
+[+] Brutoforce 
 [+] masseditproduct
-[+] Brutoforce
