@@ -10,7 +10,7 @@ pip2 install Queue
 pip2 install colorama
 pip2 install parse
 pip2 install system
-ppm install Parallel-ForkManager && cpan -i Parallel::ForkManager
+apt-get install libparallel-forkmanager-perl
 unzip Xbot.zip
 echo "Please Wait... "
 sleep 2
