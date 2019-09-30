@@ -6,7 +6,7 @@ Tools & Website Vulnerability Scanner & Auto Exploiter
 Download [Termux/Linux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-git clone https://github.com/user-rahim/Boot
+git clone https://github.com/user-rahim/Xboot
 cd AutoExploit
 chmod +x install.sh
 bash install.sh
@@ -19,7 +19,7 @@ python2 priv.py
 Download Python 2.7.1.4
 Download Boot
 Extract Boot into Desktop
-Extract BoT.zip
+Extract Xbot.zip
 install pip your windows
 Install perl your windows
 Open CMD and type the following commands:
