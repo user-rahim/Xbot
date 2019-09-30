@@ -10,8 +10,9 @@ pip2 install Queue
 pip2 install colorama
 pip2 install parse
 pip2 install system
-unzip BoT.zip
+ppm install Parallel-ForkManager && cpan -i Parallel::ForkManager
+unzip Xbot.zip
 echo "Please Wait... "
 sleep 2
-echo -e "${red}Done Install Module Now Runing Comand python2.py To Run AutoExploit\n"
+echo -e "${red}Done Install Module Now Runing Xbot :)\n"
 ls
