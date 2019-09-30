@@ -23,8 +23,9 @@ Extract Boot into Desktop
 Extract Xbot.zip
 install pip your windows
 Install perl your windows
+Install GItbash your windows
 Open CMD and type the following commands:
-cd Desktop/AutoExploit/
+cd Desktop/Xbot/
 C:\Python27\Scripts/pip.exe install requests
 C:\Python27\Scripts/pip.exe install Queue
 C:\Python27\Scripts/pip.exe install colorama
