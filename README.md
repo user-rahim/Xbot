@@ -6,6 +6,7 @@
 Download [Termux/Linux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
+apt install git
 git clone https://github.com/user-rahim/Xboot
 cd AutoExploit
 chmod +x install.sh
