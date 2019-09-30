@@ -8,11 +8,11 @@ Download [Termux/Linux](https://play.google.com/store/apps/details?id=com.termux
 ```bash
 apt install git
 git clone https://github.com/user-rahim/Xboot
-cd AutoExploit
+cd Xobot
 chmod +x install.sh
 bash install.sh
-cd BoT
-python2 priv.py
+cd Xbot
+bash Xbot.sh
 ```
 
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
@@ -31,5 +31,5 @@ C:\Python27\Scripts/pip.exe install colorama
 C:\Python27\Scripts/pip.exe install parse
 C:\Python27\Scripts/pip.exe install system
 ppm install Parallel-ForkManager && cpan -i Parallel::ForkManager
-cd BoT
-C:\python27\python.exe Xbot.py
+cd Xbot
+bash Xbot.sh
